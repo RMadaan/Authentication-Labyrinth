@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.fc8e914c.js",
-    "static/js/453.ffd47ec5.chunk.js": "/static/js/453.ffd47ec5.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.fc8e914c.js.map": "/static/js/main.fc8e914c.js.map",
-    "453.ffd47ec5.chunk.js.map": "/static/js/453.ffd47ec5.chunk.js.map"
+    "main.css": "/Authentication-Labyrinth/static/css/main.e6c13ad2.css",
+    "main.js": "/Authentication-Labyrinth/static/js/main.9cd56b64.js",
+    "static/js/453.ffd47ec5.chunk.js": "/Authentication-Labyrinth/static/js/453.ffd47ec5.chunk.js",
+    "index.html": "/Authentication-Labyrinth/index.html",
+    "main.e6c13ad2.css.map": "/Authentication-Labyrinth/static/css/main.e6c13ad2.css.map",
+    "main.9cd56b64.js.map": "/Authentication-Labyrinth/static/js/main.9cd56b64.js.map",
+    "453.ffd47ec5.chunk.js.map": "/Authentication-Labyrinth/static/js/453.ffd47ec5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.fc8e914c.js"
+    "static/js/main.9cd56b64.js"
   ]
 }
